@@ -5,7 +5,7 @@ public class OrtakClass {
         System.out.println("Ortlık karışacak vaziyet alın");
         System.out.println("Java Candir");
         System.out.println("Hele bakin kim gelmis");
-    
+        System.out.println("Ortak Calısma");
 
     }
 }
