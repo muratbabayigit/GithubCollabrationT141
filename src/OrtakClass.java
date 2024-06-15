@@ -6,6 +6,9 @@ public class OrtakClass {
         System.out.println("Java Candir");
         System.out.println("Hele bakin kim gelmis");
         System.out.println("Ortak Calısma");
+        System.out.println("conflict :( ");
+
+
 
     }
 }
